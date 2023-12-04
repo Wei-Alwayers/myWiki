@@ -1,4 +1,4 @@
 * [Home](/)
-* [csdiy](/csdiy/)
-* [课程笔记](/课程笔记/)
-* [ask](/ask/)
+* [csdiy](/csdiy/readme.md)
+* [notes](/notes/readme.md)
+* [ask](/ask/readme.md)
