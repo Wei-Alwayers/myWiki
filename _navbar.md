@@ -2,3 +2,5 @@
 * [csdiy](/csdiy/readme.md)
 * [notes](/notes/readme.md)
 * [ask](/ask/readme.md)
+* [work](/work/readme.md)
+* [tools](/tools/readme.md)

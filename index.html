@@ -14,20 +14,27 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
-      loadSidebar: true,
-      subMaxLevel: 2,
-      alias: {
-        '/csdiy/': '/csdiy/course1',
-        '/课程笔记/': '/课程笔记/note1',
-        '/ask/': '/ask/ask1',
-      },
+      name: 'Haoming\'s Coding Wiki',
+      repo: 'https://github.com/Wei-Alwayers/myWiki',
+      loadSidebar: false,
+      maxLevel: 3,
       loadNavbar: true,
+      search: {
+        paths: 'auto',
+        placeholder: '搜索',
+        noData: '找不到结果',
+        depth: 3,
+      },
+      mergeNavbar: true,
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-java.min.js"></script>
+
 
 </body>
 
