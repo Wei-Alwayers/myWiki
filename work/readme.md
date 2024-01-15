@@ -1,5 +1,10 @@
 # 找工作相关信息：
+## 学习路线
+
+* [鱼皮编程之路](https://www.codefather.cn/)
+
 ## 八股文
+
 * [JavaGuide](https://snailclimb.gitee.io/javaguide/#/)
 * [CS Notes](https://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
 
