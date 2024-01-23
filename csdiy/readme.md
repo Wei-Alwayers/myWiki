@@ -1,7 +1,13 @@
 # Haoming's CS DIY
 > CSdiy官方网站：[CSdiy](https://csdiy.wiki/)
 
-接下来的学习计划：
+## 已经完成的学习
+1. **Coursera Machine Learning 吴恩达机器学习经典入门课**
+* [课程地址](https://www.coursera.org/specializations/machine-learning-introduction)
+* [CSdiy链接](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/)
+* [github仓库](https://github.com/Wei-Alwayers/Coursera-Machine-Learning)
+
+## 接下来的学习计划：
 
 | 课程                      | 学习内容              | 语言       | 时间 | CSdiy链接                                                    |
 | ------------------------- | --------------------- | ---------- | ---- | ------------------------------------------------------------ |

@@ -37,5 +37,4 @@
 * CheatSheet: 快捷键查询软件
 * Alfred4: 快捷启动软件 
 * PicGo: 图床软件
-* NeatDownloadManager: BT下载软件
 * ParallelsDesktop: 虚拟机软件
